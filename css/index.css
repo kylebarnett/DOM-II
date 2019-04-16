@@ -174,6 +174,9 @@ img {
     margin: 0 5%;
   }
 }
+.content-destination-2 {
+  background: yellow;
+}
 .main-navigation {
   width: 100%;
   height: 90px;
